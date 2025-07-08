@@ -32,3 +32,8 @@ The notebook demonstrates:
    ```bash
    git clone https://github.com/PriyankaMalisetty97/Stock-price-pediction-using-LSTM.git
    cd Stock-price-pediction-using-LSTM
+2.Open the notebook in Google Colab or Jupyter Notebook:
+  jupyter notebook Stock_price_prediction.ipynb
+3.Install required libraries (if not already installed):
+  pip install numpy pandas matplotlib scikit-learn tensorflow
+Run all cells to train the model and visualize predictions.
